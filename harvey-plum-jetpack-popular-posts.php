@@ -7,7 +7,9 @@
  * Author: Harvey Plum
  * Author URI: https://harveyplum.com
  * GitHub Plugin URI: https://github.com/HarveyPlum/harvey-plum-jetpack-popular-posts
+ * Update URI: https://github.com/HarveyPlum/harvey-plum-jetpack-popular-posts
  * Primary Branch: main
+ * Release Asset: true
  * License: GPL-2.0-or-later
  * Text Domain: hp-jetpack-popular-posts
  * Requires at least: 6.0
